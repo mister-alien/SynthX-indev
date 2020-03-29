@@ -1,2 +1,0 @@
-# SynthX-indev
-# SynthX-indev
